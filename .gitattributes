@@ -1,0 +1,6 @@
+# Ignore Unity & VS metadata in language stats
+*.sln linguist-vendored
+*.csproj linguist-vendored
+
+# Explicitly mark Arduino as C++
+# *.ino linguist-language=C++
